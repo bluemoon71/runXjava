@@ -1,4 +1,4 @@
-In addition to the Apache License, the code for runXjava was created using Java SE NetBeans IDE Installer, which is associated with the  GNU General Public License GPL Version 2 license aggrement. 
+In addition to the Apache License, the code for runXjava was created using Java SE NetBeans IDE Installer, which is licensed under the  GNU General Public License GPL Version 2 license aggrement. 
 
 
 # runXjava
